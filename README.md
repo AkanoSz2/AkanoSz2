@@ -39,9 +39,8 @@
   Currently learning <br> <br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-<br>
 </div>
-<br><br><br>
+<br>
 <div>
 <h2 align="center">     ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
